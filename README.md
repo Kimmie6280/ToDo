@@ -1,12 +1,31 @@
-# React + Vite
+<h1>Simple ToDo App</h1>
+Users can add, delete and move items in their todo list
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>Getting Started</h1>
 
-Currently, two official plugins are available:
+Create new react App
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    npm create vite@latest
+    cd my-react-app
+    npm install
+    npm run dev
 
-## Expanding the ESLint configuration
+remove all css from index.css and app.css
+Remove default code from App.jsx
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h1>Elements used in App</h1>
+
+Web Dev Fundemtals
+<ol>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ol>
+
+React Elements
+<ol>
+  <li>Hooks</li>
+  <li>Handleing and changing State</li>
+  <li>Arrays</li>
+  <li>Components</li>
+</ol>
